@@ -1,4 +1,4 @@
-pportworx:
+portworx:
   labels:
     io.rancher.container.dns: 'true'
     io.rancher.scheduler.global: 'true'
