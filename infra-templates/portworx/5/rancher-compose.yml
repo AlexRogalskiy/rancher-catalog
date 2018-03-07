@@ -1,6 +1,6 @@
 .catalog:
   name: "Portworx"
-  version: "1.2.22"
+  version: "veda-debug"
   description: "Portworx Docker Volume Driver"
   questions:
 
